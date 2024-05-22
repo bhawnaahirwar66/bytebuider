@@ -1,0 +1,11 @@
+h1{
+    color: coral;
+}
+body{
+    color: cadetblue;
+    background-color: aqua;
+}
+ select{
+    color: rgb(255, 13, 13);
+    background-color: hsl(53, 100%, 2%);
+}
